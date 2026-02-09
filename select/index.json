@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Guilty East",
+  "base_artist": "Eric.B.Jr",
+  "createdAt": "2026-02-09T13:03:14.684671Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guilty East (feat. FAT D)",
+      "artist": "Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Guilty_East_(feat._FAT_D)_Eric.B.Jr.txt"
+    }
+  ]
+}
